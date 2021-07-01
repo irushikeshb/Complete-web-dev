@@ -51,6 +51,9 @@ p{
 span{
     color: red;
 }
+#head{
+    margin-left: 260px;
+}
 .hero-btn{
     display: inline-block;
     text-decoration: none;
@@ -70,6 +73,12 @@ div .hero{
     margin-left: 250px;
     margin-top: 40px;
 }
+#hm{
+    margin-right: 250px;
+}
 #cs{
-    margin-left: 40px;
+    margin-right: 200px;
+}
+#js{
+    margin-right: 140px;
 }
