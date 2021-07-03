@@ -4,7 +4,14 @@ html{
     font-size: 25px;
 }
 .border{
+    margin-top: 50px;
     border: 2px solid;
+}
+h1{
+    color: red;
+    margin-bottom: 100px;
+    font-size: 45px;
+    text-align: center;
 }
 p{
     background: gold;
