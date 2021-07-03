@@ -52,6 +52,7 @@ span{
     color: red;
 }
 #head{
+    padding-bottom: 80px;
     margin-left: 260px;
 }
 .hero-btn{
@@ -80,6 +81,9 @@ div .hero{
     margin-right: 200px;
 }
 #js{
-    margin-right: 140px;
+    margin-right: 180px;
+}
+div .hero{
+    margin-bottom: 170px;
 }
 
